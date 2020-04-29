@@ -7,6 +7,6 @@ def lambda_handler(event, context):
     :return:
     """
     print(event)
-    print("-"*20)
+    print("*"*20)
     print(context)
     return
